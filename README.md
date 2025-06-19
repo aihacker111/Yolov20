@@ -7,7 +7,7 @@ Welcome to the YOLOv20 project, where we push the boundaries of object detection
 ### Performance Overview
 Check out the performance of YOLOv20 compared to other models:
 
-![YOLOv20 Performance Chart](image.jpg)
+![YOLOv20 Performance Chart](ChatGPT Image Jun 19, 2025, 05_02_47 PM.png)
 
 - **YOLOv20**: Our cutting-edge model, delivering top-tier mAP@50-95 on the COCO dataset with fewer parameters.
 - **YOLOvN (where N < 9)**: Baseline models for comparison, showing a significant gap in efficiency.
